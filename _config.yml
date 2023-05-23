@@ -33,3 +33,8 @@ sidebar_home_link:  true
                                 # page. If you change your paginate_path,
                                 # set this to the root of the paginate_path
                                 # to enable a separate blog link.
+
+
+domain: susnata.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://susnata.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /susnata.github.io/      # place folder name if the site is served in a subfolder
